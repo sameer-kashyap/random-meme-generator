@@ -1,0 +1,32 @@
+.meme-generator{
+    text-align: center;
+
+}
+
+.meme-generator img{
+    height: 429px;
+    object-fit: cover;
+}
+
+.meme-generator .meme-btn{
+    padding: 8px 20px ;
+    border: 2px;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    margin: 24px 0 ;
+    font-size: 20px;
+    color: chocolate;
+    background: white;
+    cursor: pointer;
+}
+
+.meme-generator .meme-btn:hover{
+    padding: 8px 36px ;
+    border-left: 8px solid black;
+    border-right: 8px solid black; 
+    letter-spacing: 3px;
+}
+
+.meme-generator .meme-author{
+    margin: 8px;
+}
